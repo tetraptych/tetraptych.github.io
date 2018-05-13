@@ -1,0 +1,61 @@
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in this template*/
+/*--------------------------------------------------------------------------*/
+#interrorview-banner{
+    margin-bottom:20px;
+    height:190px;
+    width: 100%;
+    background-image:url('https://github.com/laurylzenobi/laurylzenobi.github.io/blob/master/Interroview/interroviewbanner.png?raw=true');
+    background-repeat: no-repeat;
+    background-position: -5% 0%;
+}
+
+#uxdc-banner{
+    margin-bottom:20px;
+    height:190px;
+    width: 100%;
+    background-image:url('https://github.com/laurylzenobi/laurylzenobi.github.io/blob/master/friendbait/uxdc_banner.png?raw=true');
+    background-repeat: no-repeat;
+    background-position: -5% 0%;
+}
+
+#wmata-banner{
+    margin-bottom:20px;
+    height: 200px;
+    width:100%;
+    background-image:url('https://github.com/laurylzenobi/laurylzenobi.github.io/blob/master/WMATA/wmatabanner.png?raw=true');
+    background-repeat: no-repeat;
+    background-position: 75% 0%;
+}
+
+#anthroguide-banner{
+    margin-bottom:20px;
+    height: 200px;
+    width:100%;
+    background-image:url('https://github.com/laurylzenobi/laurylzenobi.github.io/blob/master/AnthroGuide/anthroguidebanner-tranparent.png?raw=true');
+    background-repeat:no-repeat;
+    background-position: 0% 0%;
+}
+
+
+#AAA-banner{
+    margin-bottom:20px;
+    height: 200px;
+    width:100%;
+    background-image:url('https://github.com/laurylzenobi/laurylzenobi.github.io/blob/master/AAAredesign/AAAredesign.png?raw=true');
+    background-repeat:no-repeat;
+    background-position: 0% 0%;
+}
+
+.interrorview-item-01{
+    background-image: url('https://github.com/laurylzenobi/laurylzenobi.github.io/blob/master/Interroview/IVlaptop.png?raw=true');
+}
+..interrorview-item-02{
+    background-image: url('https://github.com/laurylzenobi/laurylzenobi.github.io/blob/master/Interroview/IV8.png?raw=true" class="img-responsive');
+}
+.interrorview-item-03{
+    background-image: url('https://github.com/laurylzenobi/laurylzenobi.github.io/blob/master/Interroview/IV4.png?raw=true" class="img-responsive');
+}
+.interrorview-item-04{
+    background-image: url('https://github.com/laurylzenobi/laurylzenobi.github.io/blob/master/Interroview/IV5.png?raw=true');
+}
