@@ -2,4 +2,4 @@
 
 A simple GitHub Pages page powered by Bootstrap.
 
-View the site [here](https://tetraptych.github.io).
+[View the site](https://tetraptych.github.io).
