@@ -704,39 +704,32 @@ nav.mastnav a:focus{
 }
 
  .works-item a{
-        border: solid 6px;
-            opacity: 0;
-            display: block;
-            width: 100%;
-            height: 100%;
-            position: absolute;
-            top: 0;
-            z-index: 100;
-            text-align: center;
-            text-decoration: none !important;
-            -webkit-transition: all .4s ease-in-out;
-               -moz-transition: all .4s ease-in-out;
-                -ms-transition: all .4s ease-in-out;
-                 -o-transition: all .4s ease-in-out;
-                    transition: all .4s ease-in-out;
+        border: solid 10px;
+        opacity: 0;
+        display: block;
+        width: 100%;
+        height: 100%;
+        background: rgba(255,255,255,0.9);
+        position: absolute;
+        top: 0;
+        font-weight: bolder;
+        z-index: 100;
+        text-align: center;
+        text-decoration: none !important;
+        -webkit-transition: all .4s ease-in-out;
+           -moz-transition: all .4s ease-in-out;
+            -ms-transition: all .4s ease-in-out;
+             -o-transition: all .4s ease-in-out;
+                transition: all .4s ease-in-out;
         }
         .works-item a:hover{
             text-decoration: none !important;
-        background: rgba(255,255,255,0.9);
-            opacity:1;
-            -webkit-transition: all .4s ease-in-out;
-               -moz-transition: all .4s ease-in-out;
-                -ms-transition: all .4s ease-in-out;
-                 -o-transition: all .4s ease-in-out;
-                    transition: all .4s ease-in-out;
+            background: rgba(255,255,255,0.9);
+            opacity: 1;
+            font-weight: bolder;
         }
         .info a:hover{
             cursor: url("../images/plus.png") 40 40, crosshair;
-            -webkit-transition: all .4s ease-in-out;
-               -moz-transition: all .4s ease-in-out;
-                -ms-transition: all .4s ease-in-out;
-                 -o-transition: all .4s ease-in-out;
-                    transition: all .4s ease-in-out;
         }
 
         .works-item-inner{
@@ -758,6 +751,9 @@ nav.mastnav a:focus{
             margin-top: 0px;
         }
         .works-item a:hover
+          {
+            font-weight: bolder;
+          }
         .works-item-inner h3{
         }
         .works-item a:hover
@@ -811,9 +807,9 @@ nav.mastnav a:focus{
   width: 31.3% !important;
 }
 .works-masonry-container .works-item-one-half-spaced{
-  margin: 1% !important;
+  margin: 1.2% !important;
   padding: 0 !important;
-  width: 48% !important;
+  width: 46% !important;
 }
 .works-masonry-container .works-item-two-third-spaced{
   margin: 1% !important;
